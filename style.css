@@ -1,0 +1,18 @@
+body{
+  color:#ffffff;
+  font-size:27px;
+  font-weight:bold;
+  text-align:center;
+}
+
+#root{
+  background-color: #ff6a50;
+  height:100%;
+  width:100%;
+  position:fixed;
+} 
+  
+.counter{
+  border:5px solid orange;
+  padding:22px;
+}
